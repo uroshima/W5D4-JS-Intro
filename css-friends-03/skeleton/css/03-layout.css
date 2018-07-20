@@ -1,0 +1,38 @@
+/* PHASE 3: Layout */
+.content {
+  width: 150px;
+  padding: 10px;
+  min-height: 200px;
+  float: left;
+  /* display: grid;
+  position: static; */
+  /* border: 1px solid black;
+  height: 200px; */
+  /* border-left: 1px;
+  border-right: 1px;
+  border-color: green; */
+}
+
+.content .content-sidebar {
+  width: 100px;
+  /* padding: 100px; */
+  /* display: flex;
+  position: relative;
+  min-height: 200px;
+  background-color: purple;
+  border: 1px;
+  border-left: 1px;
+  border-right: 1px; */
+}
+
+.content .content-main {
+  width: 100px;
+  /* padding: 100px;
+  display: flex;
+  position: absolute;
+  min-height: 200px;
+  background-color: purple;
+  border: 1px;
+  border-left: 1px;
+  border-right: 1px; */
+}
